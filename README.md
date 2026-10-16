@@ -56,7 +56,7 @@ TikTok    : [@ngat0n](https://tiktok.com/@ngat0n)
 - Fetches public proxy lists from multiple sources
 - Tests each proxy against **two real TLS targets**
 - Detects the working protocol (HTTP / HTTPS / SOCKS4 / SOCKS5)
-- Filters by maximum latency (default **150 ms**)
+- Filters by maximum latency (default **220 ms**)
 - Shows a **clean live box UI** — no terminal spam
 - Auto-saves results, even if you press **Ctrl+C**
 
