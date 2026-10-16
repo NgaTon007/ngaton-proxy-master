@@ -96,6 +96,7 @@ Built with **Python 3 standard library only** — no `pip install` needed.
 ```bash
 pkg update && pkg upgrade -y
 pkg install python -y
+pkg install git -y
 ```
 
 Download the tool:
