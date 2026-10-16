@@ -100,7 +100,7 @@ pkg install python -y
 
 Download the tool:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ngaton-proxy-master.git
+git clone https://github.com/NgaTon007/ngaton-proxy-master.git
 cd ngaton-proxy-master
 ```
 
@@ -138,7 +138,7 @@ sudo pacman -S python --noconfirm
 
 Run:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ngaton-proxy-master.git
+git clone https://github.com/NgaTon007/ngaton-proxy-master.git
 cd ngaton-proxy-master
 python3 proxy_master.py
 ```
@@ -156,7 +156,7 @@ Or download from python.org.
 
 Run:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ngaton-proxy-master.git
+git clone https://github.com/NgaTon007/ngaton-proxy-master.git
 cd ngaton-proxy-master
 python3 proxy_master.py
 ```
@@ -174,7 +174,7 @@ python3 proxy_master.py
 2. Open **PowerShell** or **CMD**:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/ngaton-proxy-master.git
+git clone https://github.com/NgaTon007/ngaton-proxy-master.git
 cd ngaton-proxy-master
 python proxy_master.py
 ```
